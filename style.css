@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+input{
+    margin: 5px;
+}
+input[type=text]:focus {
+    background-color: rgba(199, 165, 28, 0.643);
+}
+label{
+    display: block;
+    width: 100px;
+}
+  
